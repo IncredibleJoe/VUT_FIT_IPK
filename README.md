@@ -1,1 +1,4 @@
-# VUT_FIT_IPK
+# Počítačová komunikace
+
+#### Autor
+- Dušan Čičmiš <xcicmi00@stud.fit.vutbr.cz>
